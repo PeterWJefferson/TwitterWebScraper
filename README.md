@@ -16,6 +16,6 @@ TO START:
   
   6. RUN "TwitterApp"
   
-  6a. IF you are prompted to "Reslove issues" click "Resolve". Then navigate to where you downloaded the twitter4j-4.0.7 API and select         it. This will import the twitter4j library and allow the application to run correctly.
+   6a. IF you are prompted to "Reslove issues" click "Resolve". Then navigate to where you downloaded the twitter4j-4.0.7 API and select         it. This will import the twitter4j library and allow the application to run correctly.
     
   7. Once the app is run select either "Top 25" or "Big Ten" in the drop down and CLICK "Generate". The page will reload with the most up       to date number of mentions from @ESPNCFB's Twitter page for each team.
